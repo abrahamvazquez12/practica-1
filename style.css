@@ -8,13 +8,13 @@ h1{
     color: maroon;
 }
 
-#contenido{
+.contenido{
     background-color: black;
 }
 
-.propuesta{
+#propuesta{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.fondo{
+#fondo{
     background-color: coral;
 }
