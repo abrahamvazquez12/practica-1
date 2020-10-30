@@ -1,1 +1,8 @@
 /* comentario en hoja de estilo */
+p {
+    font-family: Arial;
+}
+
+h1{
+    color: maroon;
+}
