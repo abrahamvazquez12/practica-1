@@ -1,9 +1,9 @@
 /* comentario en hoja de estilo */
 
 body{
-background: #141E30;
-margin: 0;
-padding: 0;
+    background: #141E30;
+    margin: 0;
+    padding: 0;
 }
 .header{
     background-image: url(https://c402277.ssl.cf1.rackcdn.com/photos/18435/images/hero_full/Medium_WW267491.jpg?1578425217);
@@ -38,7 +38,7 @@ padding: 0;
 
 
 h1{
-    color: white;
+    color: black;
     font-family: 'Quicksand', sans-serif;
     font-size: 70px;
     font-weight: 400;
@@ -46,5 +46,12 @@ h1{
     margin: 0px;
 }
 
-
+}
+h2{
+    color: black;
+    font-family: 'Open Sans',sans-serif;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 100;
+}
 
